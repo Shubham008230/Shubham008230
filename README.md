@@ -51,7 +51,7 @@
 ---
 
 ## 📫 How to Reach Me
-- Twitter/X: *(add when ready)*
+- Twitter/X: https://x.com/Shubham75308322
 - Portfolio: *(coming soon)*
 
 ---
