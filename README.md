@@ -1,59 +1,49 @@
 # Hi 👋, I'm Shubham
 
-### Cybersecurity Student | Google Cybersecurity Certified | Breaking & Learning
+**Cybersecurity Student | Google Cybersecurity Certified | Learning by Building**
 
----
+I'm learning to break things so I can help fix them. I build small Python projects with tests and documentation, and I'm working towards a career as a security analyst.
 
 ## 🚀 About Me
-- 🎓 Cybersecurity student passionate about digital defense
-- ✅ Completed Google Cybersecurity Certificate
-- 🔭 Currently learning Bug Bounty & Web Security
-- 🌱 Exploring OWASP Top 10, Reconnaissance, and API Security
+- 🛡️ First-year BCA student, passionate about digital defence
+- ✅ Completed the Google Cybersecurity Certificate
+- 🔭 Currently learning Python, SQL, Linux and web security
+- 🌱 Exploring OWASP Top 10, reconnaissance and API security
 - ⚡ Started my security journey in 2025
 
----
-
 ## 🛠️ Tech Stack
+**Currently learning:** Python · SQL · Linux
 
-**Previously Used:**
-- C
-- C++
-- Java
-- HTML
+**Tools:** Git · GitHub · VS Code · Kali Linux · VirtualBox
 
-**Currently Learning:**
-- Python
-- SQL
-- Linux
+**Used before:** C · C++ · Java · HTML
 
----
+## 📂 Python Projects
+Each project has tests and a README.
+
+| Project | What it does | Skills |
+|---|---|---|
+| [bin2dec-python](https://github.com/Shubham008230/bin2dec-python) | Converts binary to decimal | Loops, functions |
+| [vigenere-cipher-python](https://github.com/Shubham008230/vigenere-cipher-python) | Encrypts and decrypts text | Cipher basics, `ord`/`chr` |
+| [word-frequency-python](https://github.com/Shubham008230/word-frequency-python) | Counts words in text | Dictionaries, sorting |
+| [input-validation-python](https://github.com/Shubham008230/input-validation-python) | Validates emails, passwords, IPs | Regex, input security |
+| [roman-to-decimal-python](https://github.com/Shubham008230/roman-to-decimal-python) | Converts Roman numerals | Dictionaries, logic |
+| [pearson-regression-python](https://github.com/Shubham008230/pearson-regression-python) | Correlation with a chart | Maths, matplotlib |
 
 ## 📜 Certifications
 - Google Cybersecurity Certificate
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham008230&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubham008230&theme=tokyonight)
-
----
-
 ## 🎯 Current Goals
+- [x] Build my first Python projects with tests (6 done)
+- [ ] Finish 7 more Python projects (files, databases, APIs)
 - [ ] Master Python for security automation
-- [ ] Get comfortable with Linux command line
+- [ ] Get comfortable with the Linux command line
 - [ ] Learn SQL injection techniques
 - [ ] Complete OWASP Top 10 basics
-- [ ] Build first reconnaissance tool
-- [ ] Submit first bug bounty report
-
----
+- [ ] Build my first reconnaissance tool
+- [ ] Submit my first bug bounty report
 
 ## 📫 How to Reach Me
-- Twitter/X: https://x.com/Shubham75308322
-- Portfolio: *(coming soon)*
+- X: [@Shubham75308322](https://x.com/Shubham75308322)
 
----
-
-Thanks for visiting my profile! 🚀
+Thanks for visiting! 🚀
